@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# 进入代码目录
+cd /code
+
+# 运行 R 脚本
+Rscript Figure2Eforest/Figure2_E_forest.R
+# 提示运行完成
+echo "Forest plot has been generated and saved in /results/"
