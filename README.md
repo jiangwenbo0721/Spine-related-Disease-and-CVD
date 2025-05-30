@@ -1,4 +1,4 @@
-# Spine-related-Disease-and-CVD
+![image](https://github.com/user-attachments/assets/b0a22490-5290-4def-85b4-ef238683105c)# Spine-related-Disease-and-CVD
 
 Spondylocardiovascular Comorbidity: Cohort-Based Multi-Omics and Genetic Analyses Identify a Systemic Disorder with Dual Organ Vulnerability
 
@@ -24,4 +24,13 @@ In the directory, we have included a README.txt file that provides more detailed
 - (c) Network plot. Created with vosviewer, no analysis or code involved.
 - (d) Bar Plot. All codes provided.
 - (e) Forest plot. All codes provided.
+- (f) Box plot. All codes provided.
+-
+  **Figure 4:**
+- (a) Heatmap plot. All codes provided.
+- (b) Wordcloud plot. All codes provided.
+- (c) Manhattan plot. All codes provided.
+- (d) GSEA plot. Created with website(https://metascape.org/gp/index.html), no analysis or code involved.
+
+   **Figure 5:**
 - 
