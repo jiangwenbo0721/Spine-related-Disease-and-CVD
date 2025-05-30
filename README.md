@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b0a22490-5290-4def-85b4-ef238683105c)# Spine-related-Disease-and-CVD
+# Spine-related-Disease-and-CVD
 
 Spondylocardiovascular Comorbidity: Cohort-Based Multi-Omics and Genetic Analyses Identify a Systemic Disorder with Dual Organ Vulnerability
 
@@ -33,4 +33,14 @@ In the directory, we have included a README.txt file that provides more detailed
 - (d) GSEA plot. Created with website(https://metascape.org/gp/index.html), no analysis or code involved.
 
    **Figure 5:**
+- (a) Heatmap plot and bar plot. All codes provided.
+- (b) Sankey plot. Created with website(https://sankeymatic.com/), no analysis or code involved.
+- (c) Radar plot. All codes provided.
+- (d) UMAP plot. All codes provided.
 - 
+  **Figure 6:**
+- (a) Manhattan plot. All codes provided.
+- (b) Heatmap plot.All codes provided.
+- (c) Pathway plot. Created with Adobe, no analysis or code involved.
+- (d) Bar plot. All codes provided.
+- (e) Restricted cubic spline curves. All codes provided.
